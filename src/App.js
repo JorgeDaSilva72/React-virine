@@ -3,6 +3,8 @@ import { Switch, Route, Redirect } from "react-router-dom";
 import Home from "./pages/Home";
 import {Project1, Project2, Project3, Project4} from "./pages/Projects";
 import Contact from "./pages/Contact";
+
+
 const App = () => {
 
 

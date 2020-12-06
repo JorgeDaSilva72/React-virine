@@ -9,7 +9,8 @@ const Navigation = () => {
         <NavLink to="/" exact activeClassName="nav-active" className="hover">
           <li>accueil</li>
         </NavLink>
-		<li className="nav-portfolio">portfolio
+
+        <li className="nav-portfolio">portfolio
           <ul className="nav-projects">
             <NavLink to="/projet-1" activeClassName="nav-active" className="hover">
               <li>projet 1</li>
@@ -35,4 +36,3 @@ const Navigation = () => {
 };
 
 export default Navigation;
-

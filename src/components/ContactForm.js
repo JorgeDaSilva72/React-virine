@@ -1,8 +1,5 @@
 import React from "react";
 import { useState } from "react";
-import{ init } from 'emailjs-com';
-init("user_mm03DgzFqCAnItlfBXtm8");
-
 
 const ContactForm = () => {
   const [name, setName] = useState("");
@@ -99,7 +96,7 @@ const ContactForm = () => {
 
   return (
     <form className="contact-form">
-      <h2>contactez-nous</h2>
+      <h2>Contactez-nous</h2>
       <div className="form-content">
         <input
           type="text"

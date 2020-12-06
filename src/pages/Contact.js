@@ -43,8 +43,8 @@ const Contact = () => {
           <div className="address">
             <div className="content">
               <h4>adresse</h4>
-              <p>8 avenue du General De Gaulle</p>
-              <p>92360 Meudon-La-Foret</p>
+              <p>8 avenue du Général De Gaulle</p>
+              <p>92360 Meudon</p>
             </div>
           </div>
           <div className="phone">

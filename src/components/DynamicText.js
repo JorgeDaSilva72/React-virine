@@ -46,7 +46,7 @@ const DynamicText = () => {
 
   return (
     <span className="dynamic-text">
-      <span className="simply">JDS</span>
+      <span className="simply">simply</span>
       <span id="text-target"></span>
     </span>
   );
